@@ -13,6 +13,8 @@ with two diffrent theme
 
 clone it and use it 
 
-git clone url 
+git clone <url> 
+
 npm i
+
 npm start
