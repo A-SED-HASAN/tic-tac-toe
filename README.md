@@ -1,4 +1,4 @@
-# tic-tac-toe 
+# `tic-tac-toe`
 
 LIVE : https://project-15-tic-tac-toe.netlify.app
 
