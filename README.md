@@ -4,7 +4,7 @@ LIVE : https://project-15-tic-tac-toe.netlify.app
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-smooth and beautiful
+**smooth** and **beautiful**
 
 with nice rotate for playing on phones
 
