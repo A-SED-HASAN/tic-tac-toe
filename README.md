@@ -15,6 +15,6 @@ clone it and use it
 
 ### `git clone url`
 
-npm i
+### `npm install`
 
-npm start
+### `npm start`
